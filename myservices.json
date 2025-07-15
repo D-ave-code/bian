@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CustomerOnboarding",
+    "description": "Manages the complete process of registering new customers, verifying their identity, and setting up their initial profile and preferences."
+  },
+  {
+    "name": "FundTransfer",
+    "description": "Handles the execution of funds transfer operations between internal accounts and external banks, ensuring secure and accurate money movement."
+  },
+  {
+    "name": "LoanCreation",
+    "description": "Manages the creation, approval, and administration of loan agreements including contract management and compliance checks."
+  }, {
+    "name": "test",
+    "description": "esto es un test"
+  }
+]

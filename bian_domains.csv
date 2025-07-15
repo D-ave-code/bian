@@ -1,0 +1,11 @@
+domain_name,description
+Customer Onboarding,"Manages the end-to-end customer registration, verification, and setup process."
+Customer Offer Management,"Handles the presentation and management of offers to customers."
+Funds Transfer Operations,"Performs money transfers between internal and external accounts."
+Loan Contract Management,"Manages creation, update, and execution of loan agreements."
+Credit Risk Models,"Evaluates credit risk profiles for lending decisions."
+Account Reconciliation,"Reconciles account transactions and balances."
+Payments Execution,"Executes and tracks payment transactions."
+Term Deposit Management,"Handles setup, maintenance, and maturity of term deposits."
+KYC & Compliance,"Manages know-your-customer identity verification and compliance checks."
+Customer Relationship Management,"Tracks customer interactions, preferences, and history."

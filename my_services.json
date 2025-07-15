@@ -1,0 +1,5 @@
+[
+  {"name": "smc_fvrfvrf", "description": "Registers new customers and validates identity."},
+  {"name": "FundTransfer", "description": "Transfers funds between accounts and to external banks."},
+  {"name": "LoanCreation", "description": "Creates and manages loan agreements."}
+]
